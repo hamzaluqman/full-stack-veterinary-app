@@ -1,42 +1,4 @@
-// import React from 'react'
-// import TopBanner from './TopBanner'
-// import './AddAnimalBooking.css'
-// import { Link } from 'react-router-dom';
 
-// export default function AddAnimalBooking() {
-//     return (
-//         <div>   
-//             <TopBanner />         
-//             <form>
-                
-//               <div class="form-add-booking">
-//                 <label class = "labels-form-title">Add Animal Booking</label>
-//                 <br/><br/> <br/>
-                
-//                 <label class = "labels-form">Date of Booking</label>
-//                 <br/><input type="date" class="input-form"  />
-//                 <br/> 
-
-//                 <label class = "labels-form">Date of Return</label>
-//                 <br/><input type = "date" class="input-form" />                
-//                 <br/>
-
-//                 <label class = "labels-form">Booker Name  </label>
-//                 <br/><input type="text" class="input-form"  />
-//                 <br/>
-
-//                 <label class = "labels-form">Animal Type</label>
-//                 <br/><input type="text" class="input-form"  />
-//                 <br/>
-
-//                 <button type="submit" class="form-button-booking">Submit</button>
-//                 <Link to='/booking'> <button type="submit" class="form-button-booking">Cancel</button> </Link>
-//              </div>  
-             
-//             </form>
-//         </div>
-//     )
-// }
 import React, { Component } from 'react'
 import TopBanner from './TopBanner'
 import './AddAnimalBooking.css'
