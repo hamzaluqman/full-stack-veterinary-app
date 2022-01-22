@@ -1,0 +1,27 @@
+.form-alert{
+    width: 80%;
+    position: absolute;
+    left: 220px;
+    top: 70px;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.alert-input{
+    width: 20em;
+    height: 2em;
+    
+}
+.alert-input-area{
+    width: 20em;
+    height: 8em;
+}
+.alert-button{
+    height: 2.5em;
+    width: 6em;
+}
+.alert-labels{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}

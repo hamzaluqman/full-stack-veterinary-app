@@ -1,0 +1,30 @@
+.input-form-comment{
+    margin-bottom: 2em;
+    height: 2em;
+    width: 35%;
+}
+.form-add-comments{
+font-size: larger;
+font-weight: bold;
+padding-top: 7em;
+padding-left: 25em;
+padding-right: 31em;
+
+}
+.labels-form-comment{
+margin-right: 1em;
+font-size: larger;
+margin-bottom: 5em;
+color: gray;
+font-weight: bold;
+}
+.form-button-comment{
+width: 7em;
+height: 3em;
+margin-right: 2em;
+}
+.labels-form-title{
+color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;    
+font-size: x-large;
+}

@@ -1,0 +1,31 @@
+.input-form{
+    margin-bottom: 2em;
+    height: 2em;
+    width: 35%;
+}
+.form-add-booking{
+font-size: larger;
+padding-top: 7em;
+padding-left: 25em;
+padding-right: 31em;
+
+}
+.labels-form{
+margin-right: 1em;
+font-size: larger;
+margin-bottom: 5em;
+color: gray;
+font-weight: bold;
+}
+.form-button-booking{
+width: 7em;
+height: 3em;
+margin-right: 2em;
+
+}
+.labels-form-title{
+color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;    
+font-size: x-large;
+
+}

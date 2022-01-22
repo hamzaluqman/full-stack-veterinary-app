@@ -1,0 +1,35 @@
+.input-form{
+        margin-bottom: 2em;
+        height: 2em;
+        width: 35%;
+}
+.form-add-reminder{
+    font-size: larger;
+    font-weight: bold;
+    font-size: larger;
+    padding-top: 10em;
+    padding-left: 25em;
+    padding-right: 31em;
+    
+}
+.labels-form{
+    margin-right: 1em;
+    margin-left: 0em;
+    font-size: larger;
+    margin-bottom: 5em;
+    color: gray;
+    font-weight: bold;
+}
+.form-button{
+    width: 9em;
+    height: 3em;
+    margin-left: 2em;
+    margin-right: 3em;
+}
+.labels-form-title{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+    font-size: x-large;
+   
+
+}
